@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets and local auth
+.env
+credentials.json
+token.pickle
+*.pickle
+
+# Runtime state and logs
+clips.json
+bot_*.log
+*.log
+downloads/
+processed_clips/
+
+# Local tools and binaries
+.tools/
+ffmpeg.exe
+ffprobe.exe
+chromedriver-win64/
+
+# Legacy scripts with local credentials
+Automatic/
+
+# OS/editor files
+desktop.ini
+.DS_Store
+.idea/
+.vscode/
