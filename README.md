@@ -1,5 +1,8 @@
 # AutoClip
 
+![CI](https://github.com/Crazy4elovek66/AutoClip/actions/workflows/ci.yml/badge.svg)
+
+
 Telegram-бот для поиска Twitch-клипов, обработки видео в вертикальный формат и публикации контента в Telegram/YouTube.
 
 ## Запуск
